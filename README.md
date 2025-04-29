@@ -1,4 +1,5 @@
 # Toxic Comment Classifier
+![Toxic Comment Classifier Logo](data/logo.png)
 
 This project implements a machine learning system for classifying toxic comments across multiple categories of toxicity. It uses XGBoost and TF-IDF vectorization to create models that can identify different types of toxic content in text.
 
